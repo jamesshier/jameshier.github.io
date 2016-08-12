@@ -7,4 +7,5 @@ header {
 }
 .navbar-default { 
 background-color: transparent;
+border: none;
 }
