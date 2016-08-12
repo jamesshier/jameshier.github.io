@@ -20,15 +20,6 @@ header {
 	 font-weight: 300;
 	 font-style: normal;
 }
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    text-transform: uppercase;
-    text-decoration: none;
-    letter-spacing: 2px;
-    font-weight: 300;
-    font-style: normal;
-    color: #fff;
-    background-color: transparent;
-    }
 .navbar-right { 
     margin-top: 10px;
     }
