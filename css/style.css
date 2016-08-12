@@ -31,3 +31,6 @@ header {
 #unboxed_link {
 	padding: 12px 35px;
 }
+.text_center {
+	text-align: center;
+}
