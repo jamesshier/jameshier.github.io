@@ -19,6 +19,7 @@ header {
 	letter-spacing: 2px;
 	 font-weight: 300;
 	 font-style: normal;
+	 padding: 10px;
 }
 .navbar-right { 
     margin-top: 10px;
