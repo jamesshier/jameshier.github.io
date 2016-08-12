@@ -58,4 +58,5 @@ hr {
     margin: 32px 0;
     color: rgba(31,31,31,.15);
     background-color: rgba(31,31,31,.15);
+    border-top: 2px solid rgba(31,31,31,.15);;
 }
