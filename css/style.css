@@ -30,3 +30,7 @@ header {
 .navbar-right { 
     margin-top: 10px;
     }
+.boxed_link {
+	border: 2px solid #fff;
+    color: #fff;
+}
