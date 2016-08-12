@@ -52,3 +52,10 @@ header {
     margin-top: 80px;
     margin-bottom: 80px;
 }
+hr {
+	border-style: none;
+    border-width: 0;
+    margin: 32px 0;
+    color: rgba(31,31,31,.15);
+    background-color: rgba(31,31,31,.15);
+}
