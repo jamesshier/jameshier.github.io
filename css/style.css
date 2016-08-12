@@ -28,6 +28,7 @@ header {
     font-style: normal;
     color: #fff;
     background-color: transparent;
+    padding: 2px;
     }
 .navbar-right { 
     margin-top: 10px;
