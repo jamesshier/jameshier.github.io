@@ -76,5 +76,8 @@ hr {
 	padding-right:0px;
 }
 .spacer {
-	margin-top:40px;
+	margin-top:50px;
+}
+strong {
+    font-weight: bold;
 }
