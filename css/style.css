@@ -165,6 +165,9 @@ strong {
     padding-left: 15px;
     padding-right: 15px;
 }
+.testimonial {
+    font-style: italic;
+}
 .client_logo {
     width:14.2%;
     padding: 1%;
