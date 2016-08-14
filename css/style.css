@@ -1,3 +1,4 @@
+<!-- General Page Styling -->
 body {
     font-family: 'Didact Gothic', sans-serif;
     font-size: 14px;
@@ -16,18 +17,6 @@ p {
     font-weight: 300;
     font-style: normal;
     color: #1f1f1f;
-}
-.place-card.place-card-large  {
-    display:none;
-}
-.page_title {
-    font-family: Arial;
-    font-size: 55px;
-    line-height: 1.3em;
-    letter-spacing: 4px;
-    font-weight: bold;
-    color: #fff;
-    margin-top: 60px;
 }
 h2 {
 	font-weight: 700;
@@ -50,6 +39,82 @@ h4 {
     font-weight: 400;
     font-style: normal;
 }
+.bottom_spacer {
+    margin-bottom: 150px;
+}
+#page {
+    moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: auto;
+    margin: auto;
+    max-width: 1020px;
+    padding: 96px 32px;
+    -moz-osx-font-smoothing: auto;
+    -webkit-font-smoothing: subpixel-antialiased;
+    }
+.text_center {
+    text-align: center;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+hr {
+    border-style: none;
+    border-width: 0;
+    margin: 32px 0;
+    color: rgba(31,31,31,.15);
+    background-color: rgba(31,31,31,.15);
+    border-top: 1px solid rgba(31,31,31,.15);;
+}
+.spacer {
+    margin-top:50px;
+}
+strong {
+    font-weight: bold;
+}
+<!-- Navigation -->
+.navbar-default { 
+    background-color: transparent;
+    border: none;
+}
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:hover { 
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+     font-weight: 300;
+     font-style: normal;
+     padding: 10px;
+}
+.navbar-right { 
+    margin-top: 18px;
+    }
+    .navbar-default{
+    background:transparent;
+    border:none !important;
+}
+.navbar-nav>li>a:hover{
+    color:#1a1a1a;
+} 
+.collapse.in{
+    
+    background-color:#1f1f1f!important;
+    margin-top: 20px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus
+.spacer{
+   background-color:#888;   
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #333;
+}
+.navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+}
+<!-- Element Styling -->
 .summary-title-link {
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -74,126 +139,16 @@ h4 {
     line-height: 18px;   
     color: rgba(31,31,31,.5); ;
 }
-header {
-  	background-image: url('/images/header_bg.png');
-  	padding: 0 20px;
- 	height: 200px;
-    background-size: cover;
-    background-position: center center;
-}
-#contact_header {
-    background-image: url('/images/contact_header.png');
-    height: 250px;
-    background-size: cover;
-    background-position: center center;
-}
-#class_header {
-    background-image: url('/images/classes/suit_header.jpg');
-    background-size: cover;
-    background-position: center center;
-    height: 250px;
-}
-.bottom_spacer {
-    margin-bottom: 150px;
-}
-#page {
-	moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    width: auto;
-    margin: auto;
-    max-width: 1020px;
-    padding: 96px 32px;
-    -moz-osx-font-smoothing: auto;
-    -webkit-font-smoothing: subpixel-antialiased;
-	}
-.navbar-default { 
-	background-color: transparent;
-	border: none;
-}
-.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:hover { 
-	color: #fff;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	 font-weight: 300;
-	 font-style: normal;
-	 padding: 10px;
-}
-.navbar-right { 
-    margin-top: 18px;
-    }
-#boxed_link {
-	border: 2px solid #fff;
-    color: #fff;
-    padding-left:20px;
-    padding-right:20px;
-}
-#boxed_link:hover {
-    border: 2px solid #fff;
-    color: #1f1f1f;
-    background-color: #fff;
-}
-.boxed_blk_button { 
-border: 2px solid #1f1f1f;
-    color: #1f1f1f;
-    padding: 20px 35px;
-    color: #1f1f1f;
-    font-size:16px;
-}
-.boxed_blk_button:hover { 
-background-color: #1f1f1f;
-    color: #fff;
-    color: #fff;
-    text-decoration: none;
-}
-#unboxed_link {
-	padding: 12px 35px;
-}
-.text_center {
-	text-align: center;
-}
-.row {
-    margin-right: -15px;
-    margin-left: -15px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-hr {
-	border-style: none;
-    border-width: 0;
-    margin: 32px 0;
-    color: rgba(31,31,31,.15);
-    background-color: rgba(31,31,31,.15);
-    border-top: 1px solid rgba(31,31,31,.15);;
-}
-.spacer {
-	margin-top:50px;
-}
-strong {
+.page_title {
+    font-family: Arial;
+    font-size: 55px;
+    line-height: 1.3em;
+    letter-spacing: 4px;
     font-weight: bold;
+    color: #fff;
+    margin-top: 60px;
 }
-.navbar-default{
-    background:transparent;
-    border:none !important;
-}
-.navbar-nav>li>a:hover{
-    color:#1a1a1a;
-} 
-.collapse.in{
-    
-    background-color:#1f1f1f!important;
-    margin-top: 20px;
-}
-.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus
-.spacer{
-   background-color:#888;   
-}
-.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-	background-color: #333;
-}
-.navbar-default .navbar-toggle .icon-bar {
-		background-color: #fff;
-}
+
 .newsletter {
     background-color: #f0f0f0;
     margin: 0px;
@@ -296,4 +251,53 @@ input[type=submit]:hover {
     display: inline-block;
     float: left;
 }
+}
+
+<!-- Specific Page Header Styling - Page Dependent -->
+header {
+  	background-image: url('/images/header_bg.png');
+  	padding: 0 20px;
+ 	height: 200px;
+    background-size: cover;
+    background-position: center center;
+}
+#contact_header {
+    background-image: url('/images/contact_header.png');
+    height: 250px;
+    background-size: cover;
+    background-position: center center;
+}
+#class_header {
+    background-image: url('/images/classes/suit_header.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 250px;
+}
+<!-- Link / Button Style -->
+#boxed_link {
+	border: 2px solid #fff;
+    color: #fff;
+    padding-left:20px;
+    padding-right:20px;
+}
+#boxed_link:hover {
+    border: 2px solid #fff;
+    color: #1f1f1f;
+    background-color: #fff;
+}
+.boxed_blk_button { 
+border: 2px solid #1f1f1f;
+    color: #1f1f1f;
+    padding: 20px 35px;
+    color: #1f1f1f;
+    font-size:16px;
+}
+.boxed_blk_button:hover { 
+background-color: #1f1f1f;
+    color: #fff;
+    color: #fff;
+    text-decoration: none;
+}
+#unboxed_link {
+	padding: 12px 35px;
 }
