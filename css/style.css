@@ -186,6 +186,10 @@ strong {
     margin-left: 0px;
     margin-right: 0px;
 }
+.footer i {
+    background-color: #fff;
+    border-radius: 50%;
+}
 .footer p {
     color: rgba(255,255,255,.4);
 }
