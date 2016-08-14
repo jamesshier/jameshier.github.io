@@ -165,3 +165,8 @@ strong {
     padding-left: 15px;
     padding-right: 15px;
 }
+.client_logo {
+    width:13%;
+    display: inline-block;
+    float: left;
+}
