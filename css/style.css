@@ -3,6 +3,9 @@ body {
     font-size: 14px;
     color: #1f1f1f;
 }
+a {
+    color: rgba(31,31,31,.5);
+}
 p {
 	font-size: 16px;
     line-height: 1.6em;
@@ -29,6 +32,13 @@ h4 {
     letter-spacing: 4px;
     font-weight: 400;
     font-style: normal;
+}
+summary-title-link {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
 }
 header {
   	background-image: url('/images/header_bg.png');
