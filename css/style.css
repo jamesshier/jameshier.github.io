@@ -252,20 +252,6 @@ body{
   color: #fff;
 }
 /*=====================*/
-$fb-cl:#3B579D;
-$twt-cl:#00ACED;
-$gp-cl:#DD4A3A;
-$in-cl:#007BB6;
-$pin-cl:#CB2026;
-
-@function shadow($color) {
-  $val: 0px 0px $color;
-  @for $i from 1 through 30 {
-    $val: #{$val}, #{$i}px #{$i}px #{$color};
-  }
-  @return $val;
-}
-
 
 .social-nav{
   padding: 0;
