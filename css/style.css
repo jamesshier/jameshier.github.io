@@ -54,6 +54,14 @@ h4 {
     font-size: 13px;
     line-height: 18px;   
 }
+.summary-text {
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 18px;   
+    color: rgba(31,31,31,.5); ;
+}
 header {
   	background-image: url('/images/header_bg.png');
   	padding: 0 20px;
