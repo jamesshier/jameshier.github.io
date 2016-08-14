@@ -17,6 +17,9 @@ p {
     font-style: normal;
     color: #1f1f1f;
 }
+.gm-style  {
+    display:none;
+}
 .page_title {
     font-family: Arial;
     font-size: 55px;
