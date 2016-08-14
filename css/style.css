@@ -265,6 +265,7 @@ input {
     font-size: 15px;
     line-height: normal;
     outline: none;
+    background: #fafafa;
 }
 input[type=submit] {
     background-color: #000;
