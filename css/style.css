@@ -180,11 +180,11 @@ input {
 input[type=submit] {
     background-color: #000;
     color: #fff;
+    padding-left: 20px;
+    padding-right:20px;
 }
 input[type=submit]:hover {
     background-color: #333;
-    padding-left: 10px;
-    padding-right:10px;
 }
 .divider {
     padding-left: 15px;
