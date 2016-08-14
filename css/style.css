@@ -186,9 +186,13 @@ strong {
     margin-left: 0px;
     margin-right: 0px;
 }
-.footer p, a {
+.footer p {
     color: rgba(255,255,255,.4);
 }
+.footer a {
+    color: rgba(255,255,255,.4);
+}
+
 .footer a:hover {
     color: rgba(255,255,255,.8);
 }
