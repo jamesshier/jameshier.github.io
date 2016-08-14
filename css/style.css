@@ -39,6 +39,8 @@ h4 {
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
+    line-height: 14px;
+    color: #1f1f1f;
 }
 header {
   	background-image: url('/images/header_bg.png');
