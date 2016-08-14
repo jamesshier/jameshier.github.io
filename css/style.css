@@ -124,3 +124,7 @@ strong {
 .navbar-default .navbar-toggle .icon-bar {
 		background-color: #fff;
 }
+.divider {
+    padding-left: 15px;
+    padding-right: 15px;
+}
