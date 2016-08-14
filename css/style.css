@@ -161,8 +161,9 @@ strong {
 .navbar-default .navbar-toggle .icon-bar {
 		background-color: #fff;
 }
-.footer {
+.newsletter {
     background-color: #f0f0f0;
+    margin-top: 40px;
 }
 .divider {
     padding-left: 15px;
