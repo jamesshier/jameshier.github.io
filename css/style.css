@@ -183,6 +183,8 @@ input[type=submit] {
 }
 input[type=submit]:hover {
     background-color: #333;
+    padding-left: 10px;
+    padding-right:10px;
 }
 .divider {
     padding-left: 15px;
