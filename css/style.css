@@ -17,6 +17,14 @@ p {
     font-style: normal;
     color: #1f1f1f;
 }
+.page_title {
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 1.3em;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
 h2 {
 	font-weight: 700;
     font-family: Arial;
@@ -177,6 +185,7 @@ strong {
 .social_box {
     margin-top: 15px;
 }
+
 .social_box i {
         background-color: #1f1f1f;
     border-radius: 50%;
