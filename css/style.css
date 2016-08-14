@@ -168,10 +168,19 @@ strong {
     padding-bottom: 50px;
 }
 .footer {
-    margin-left: 15%;
-    margin-right: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
     background-color: #201a16;
-    width: 70%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.footer p {
+    color: color: rgba(255,255,255,.4);
 }
 input {
     padding: 1em;
