@@ -175,6 +175,7 @@ input {
     font-size: 15px;
     line-height: normal;
     outline: none;
+    margin: 10px;
 }
 .divider {
     padding-left: 15px;
