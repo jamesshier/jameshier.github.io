@@ -98,11 +98,11 @@ header {
 .navbar-right { 
     margin-top: 18px;
     }
-.boxed_link {
+#boxed_link {
 	border: 2px solid #fff;
     color: #fff;
 }
-.boxed_link:hover {
+#boxed_link:hover {
     border: 2px solid #fff;
     color: #1f1f1f;
     background-color: #fff;
