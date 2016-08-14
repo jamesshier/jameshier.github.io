@@ -85,6 +85,10 @@ header {
     background-image: url('/images/contact_header.png');
     height: 250px;
 }
+#class_header {
+    background-image: url('/images/classes/suit.jpg');
+    height: 250px;
+}
 .bottom_spacer {
     margin-bottom: 150px;
 }
