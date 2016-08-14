@@ -167,6 +167,15 @@ strong {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+input {
+    padding: 1em;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.12);
+    font-family: inherit;
+    font-size: 15px;
+    line-height: normal;
+    outline: none;
+}
 .divider {
     padding-left: 15px;
     padding-right: 15px;
