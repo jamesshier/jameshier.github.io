@@ -69,6 +69,9 @@ header {
     background-size: cover;
     background-position: center center;
 }
+.bottom_spacer {
+    margin-bottom: 150px;
+}
 #page {
 	moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
