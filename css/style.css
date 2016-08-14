@@ -183,12 +183,12 @@ strong {
     font-size: 15px;
     line-height: 30px;
     text-align: center;
-    margin: 20px;
+    margin: 10px;
 }
 .social_box i:hover {
-    background-color: #333;
+    background-color: #444;
     border: solid 1px #fff;
-    color: #1f1f1f;
+    color: #fff;
     
 }
 .footer {
@@ -212,7 +212,7 @@ strong {
     font-size: 15px;
     line-height: 30px;
     text-align: center;
-    margin: 20px;
+    margin: 10px;
 }
 .footer i:hover {
     background-color: #333;
