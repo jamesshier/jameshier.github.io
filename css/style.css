@@ -101,6 +101,8 @@ header {
 #boxed_link {
 	border: 2px solid #fff;
     color: #fff;
+    padding-left:10px;
+    padding-right:10px;
 }
 #boxed_link:hover {
     border: 2px solid #fff;
