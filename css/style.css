@@ -138,6 +138,7 @@ border: 2px solid #1f1f1f;
     color: #1f1f1f;
     padding: 20px 35px;
     color: #1f1f1f;
+    font-size:16px;
 }
 .boxed_blk_button:hover { 
 background-color: #1f1f1f;
