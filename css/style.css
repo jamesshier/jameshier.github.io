@@ -303,3 +303,7 @@ input[type=submit]:hover {
     display: inline;
     margin-right: 2%;
 }
+.form_full {
+    width: 100%;
+    clear: both
+}
