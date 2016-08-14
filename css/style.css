@@ -280,10 +280,10 @@ input[type=submit]:hover {
     padding: 25px 10px;
 }
 .form_label {
-    margin-top: 15px;
+    padding-top: 15px;
 }
 .form_caption {
-    font-size: 10px;
+    font-size: 12px;
 }
 .divider {
     padding-left: 15px;
