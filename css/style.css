@@ -175,7 +175,7 @@ input {
     font-size: 15px;
     line-height: normal;
     outline: none;
-    margin: 10px;
+    margin: 5px;
 }
 input[type=submit] {
     background-color: #000;
